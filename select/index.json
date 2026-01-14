@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "がおってこ！",
+  "base_artist": "獅白ぼたん",
+  "createdAt": "2026-01-14T08:42:05.475047Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "がおってこ!",
+      "artist": "獅白ぼたん",
+      "has_synced": false,
+      "path": "select/pl_01_がおってこ!_獅白ぼたん.txt"
+    }
+  ]
+}
